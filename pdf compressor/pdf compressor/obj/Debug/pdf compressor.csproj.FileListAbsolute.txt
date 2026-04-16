@@ -1,0 +1,72 @@
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\pdf compressor.exe.config
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\pdf compressor.exe
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\pdf compressor.pdb
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.csproj.AssemblyReference.cache
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf_compressor.Properties.Resources.resources
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.csproj.GenerateResource.cache
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.csproj.CoreCompileInputs.cache
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.exe
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.pdb
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf compressor.exe.config
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.barcodes.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.bouncy-castle-connector.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.commons.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.forms.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.io.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.kernel.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.layout.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.pdfa.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.pdfua.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.sign.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.styledxmlparser.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.svg.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Options.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Newtonsoft.Json.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Buffers.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Memory.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Numerics.Vectors.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.AccessControl.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.Principal.Windows.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.ValueTuple.dll
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.barcodes.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.bouncy-castle-connector.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.commons.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.forms.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.io.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.kernel.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.layout.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.pdfa.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.pdfua.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.sign.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.styledxmlparser.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\itext.svg.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Options.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\Newtonsoft.Json.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Buffers.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Memory.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Numerics.Vectors.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.AccessControl.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Security.Principal.Windows.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\bin\Debug\System.ValueTuple.xml
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\pdf comp.C2CB837F.Up2Date
+D:\DCS\Repositry\pdf compressor\pdf compressor\obj\Debug\Pdf_Compressed.Pdf_Compressed.resources
